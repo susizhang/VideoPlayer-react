@@ -1,1 +1,1 @@
-https://susizhang.github.io/VideoPlayer-react/
+VideoPlayer-react
