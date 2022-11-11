@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/VideoPlayer-react/static/css/main.265e57f6.css",
+    "main.js": "/VideoPlayer-react/static/js/main.bff54cf6.js",
+    "static/media/sintel-short.mp4": "/VideoPlayer-react/static/media/sintel-short.b1d78127cc06acddb79d.mp4",
+    "static/media/sintel-short.webm": "/VideoPlayer-react/static/media/sintel-short.61c73d6ea5a3d68c1b9b.webm",
+    "static/media/heydings_controls-webfont.ttf": "/VideoPlayer-react/static/media/heydings_controls-webfont.ab9927385dbc2068eec4.ttf",
+    "static/media/heydings_controls-webfont.woff": "/VideoPlayer-react/static/media/heydings_controls-webfont.f587f3c1a907764cbbfb.woff",
+    "static/media/heydings_controls-webfont.eot": "/VideoPlayer-react/static/media/heydings_controls-webfont.90e4fc6e26ee5e4fdb23.eot",
+    "index.html": "/VideoPlayer-react/index.html",
+    "main.265e57f6.css.map": "/VideoPlayer-react/static/css/main.265e57f6.css.map",
+    "main.bff54cf6.js.map": "/VideoPlayer-react/static/js/main.bff54cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.265e57f6.css",
+    "static/js/main.bff54cf6.js"
+  ]
+}
