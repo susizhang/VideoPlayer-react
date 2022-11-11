@@ -1,1 +1,1 @@
-https://susizhang.github.io/VideoPlayer-react/
+React - custom video player
