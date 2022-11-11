@@ -27,7 +27,7 @@ p {
 }
 
 .controls {
-  visibility: hidden;
+  visibility: visible;
   opacity: 0.5;
   width: 400px;
   border-radius: 10px;
